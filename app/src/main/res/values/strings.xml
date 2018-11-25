@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">lesson4.task.service</string>
+    <string name="example_service_started">Test Service started...</string>
+    <string name="example_service_stopped">Service is stopped</string>
+    <string name="example_service_label">Example service</string>
+    <string name="example_service_connected">Connected</string>
+    <string name="example_service_disconnected">Disconnected</string>
+    <string name="hello_from_activity">Hello from Additional Activity message</string>
+    <string name="data_from_service">Data from service - sending value</string>
+</resources>
